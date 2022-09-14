@@ -1,2 +1,3 @@
-console.log('hey')
-console.log('safari is up and running')
+name = prompt('enter your name: ')
+lastName = prompt('enter your last name: ')
+alert(`Hey, ${name} ${lastName}!`)
